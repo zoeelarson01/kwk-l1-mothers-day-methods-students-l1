@@ -1,5 +1,7 @@
 ## Mother's Day!
 
+<img src = "http://forthemommas.com/wp-content/uploads/2015/05/hallmark.jpg">
+
 ### Intro
 
 Mother's day is coming up, and you've been hired by Hallmark to develop some e-cards! We're going to write some methods to wish people Happy Mother's Day for us.
