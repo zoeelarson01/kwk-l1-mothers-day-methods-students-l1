@@ -27,7 +27,7 @@ Our method now works great for mother's day, but we want to let users customize 
 + In `holiday_greeting.rb`, build out a user interface. It should
 	+ Welcome the user to your program
 	+ Take in their to, from, and holiday inputs and store them in variables. 
-	+ Run your method and show the user your results. 
+	+ Run your method and show the user your results!
 
 
 
