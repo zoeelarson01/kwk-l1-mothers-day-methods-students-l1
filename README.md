@@ -4,7 +4,7 @@
 
 ### Intro
 
-Mother's day is coming up, and you've been hired by Hallmark to develop some e-cards! We're going to write some methods to wish people Happy Mother's Day for us.
+Mother's day is coming up, and you've been hired by Hallmark to develop some e-cards! We're going to write some methods to wish people Happy Mother's Day for us. You'll be coding your solutions in `lib/mothers_day.rb`.
 
 #### Step 1 - a method with no arguments
 
