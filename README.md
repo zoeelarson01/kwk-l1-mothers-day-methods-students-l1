@@ -20,7 +20,7 @@ Your new method is great, but there's just one problem - all of the people who w
 
 ### Step 4 - multiple arguments and more
 
-Our method now works great for mother's day, but we want to let users customize it even more. Create a new file, `holiday_greeting.rb` and write a method that takes in a to, from, and a holiday and returns a personalized greeting. For example, calling `holiday_greeting("Beyonce", "Jay-Z", Fourth of July")` should return `"Happy Fourth of July, Beyonce! - From Jay-Z"`. If no arguments are specified, the method should return `"Happy Mother's Day, Mom! From Your Favorite Child"`
+Our method now works great for mother's day, but we want to let users customize it even more. Create a new file, `holiday_greeting.rb` and write a method that takes in a to, from, and a holiday and returns a personalized greeting. For example, calling `holiday_greeting("Beyonce", "Jay-Z", "Fourth of July")` should return `"Happy Fourth of July, Beyonce! - From Jay-Z"`. If no arguments are specified, the method should return `"Happy Mother's Day, Mom! From Your Favorite Child"`
 
 ### Bonus
 
