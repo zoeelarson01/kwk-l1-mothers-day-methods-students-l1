@@ -31,6 +31,4 @@ Our method now works great for mother's day, but we want to let users customize 
 
 
 
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-mothers-day' title='Mother's Day!'>Mother's Day!</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Mother's Day</p>
