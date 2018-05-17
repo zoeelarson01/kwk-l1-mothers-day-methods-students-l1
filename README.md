@@ -31,4 +31,4 @@ Our method now works great for mother's day, but we want to let users customize 
 
 
 
-<p data-visibility='hidden'>KWK-L1 Mother's Day</p>
+<p data-visibility='hidden'>KWK-L1 Mothers Day Methods</p>
