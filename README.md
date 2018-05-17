@@ -4,7 +4,7 @@
 
 ### Intro
 
-Mother's day is coming up, and you've been hired by Hallmark to develop some e-cards! We're going to write some methods to wish people Happy Mother's Day for us. You'll be coding your solutions in `lib/mothers_day.rb`.
+Mother's day is coming up, and you've been hired by Hallmark to develop some e-cards! We're going to write some methods to wish people Happy Mother's Day for us. You'll be coding your solutions in `mothers_day.rb`.
 
 #### Step 1 - a method with no arguments
 
@@ -26,7 +26,7 @@ Our method now works great for mother's day, but we want to let users customize 
 
 + Create a file in this directory called `holiday_greeting.rb`. First build out a command line user interface. It should
 	+ Welcome the user to your program
-	+ Take in their to, from, and holiday inputs and store them in variables. 
+	+ Take in their to, from, and holiday inputs and store them in variables.
 	+ Run your method and show the user your results!
 
 
