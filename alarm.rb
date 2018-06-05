@@ -11,3 +11,4 @@ elsif Time.now.hour is > 15 && Time.now.hour <= 22
   puts "Good Evening!"
 else Time.now.hour is > 22
   puts "Goodnight"
+end
