@@ -3,10 +3,11 @@
 # if the time is between 3pm and 10pm, say good evening 
 # after 10pm, say goodnight
 
-if time.now.hour is >= 6 && time.now.hour <= 11
+if Time.now.hour is >= 6 && Time.now.hour <= 11
   puts "Good Morning!"
-elsif time.now.hour is > 11 && time.now.hour <= 3
+elsif Time.now.hour is > 11 && Time.now.hour <= 15
   puts "Good Afternoon!"
-else time.now.hour is > 3 && time.now.hour <= 10
+elsif Time.now.hour is > 15 && Time.now.hour <= 22
   puts "Good Evening!"
-end
+else Time.now.hour is > 22
+  puts "Goodnight"
